@@ -11,3 +11,4 @@
   [infixed]
   (list (second infixed) (first infixed) (last infixed)))
 
+(println (str "5 + 3 = "  (infix (5 + 3))))
